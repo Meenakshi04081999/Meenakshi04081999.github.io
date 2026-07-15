@@ -166,9 +166,9 @@ The goal is to:
 - PyTorch: Transformers, HuggingFace
 - LLM APIs: Claude (Anthropic), OpenAI
 
-  ## Contact-me:
+## Contact-me:
 
 **LinkedIN link:** https://www.linkedin.com/in/meenakshi-rajendran-007047188/
-You can find more details about my work experience at Max Planck Institute, LaunchIT Corp, and Urjanet Energy Solutions on my LinkedIn profile. 
+- You can find more details about my work experience at Max Planck Institute, LaunchIT Corp, and Urjanet Energy Solutions on my LinkedIn profile. 
   
 
