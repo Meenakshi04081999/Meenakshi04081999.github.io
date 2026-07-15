@@ -143,3 +143,33 @@ The goal is to:
 - Reduce the harmful query budget required to jailbreak a guardrail.
 - Study how this budget depends on the level of information exposure provided by the guardrail.
 
+  ## Skills
+
+ ## Technical Skills
+
+### Front-end
+- React
+- JavaScript
+- HTML
+- CSS  
+*Focus: Web testing*
+
+### Back-end
+- SQL
+- CRUD operations
+- Django
+- Python
+- Testing endpoints (GET, PUT, POST, DELTE)
+  
+
+### AI & Machine Learning
+- Python: Scikit-learn, Matplotlib, Pandas, NumPy
+- PyTorch: Transformers, HuggingFace
+- LLM APIs: Claude (Anthropic), OpenAI
+
+  ## Contact-me:
+
+**LinkedIN link:** https://www.linkedin.com/in/meenakshi-rajendran-007047188/
+You can find more details about my work experience at Max Planck Institute, LaunchIT Corp, and Urjanet Energy Solutions on my LinkedIn profile. 
+  
+
