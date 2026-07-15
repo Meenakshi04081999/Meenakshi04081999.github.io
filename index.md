@@ -1,5 +1,5 @@
 
-<img src="Meena.jpeg" alt="Meenakshi Rajendran" width="200" style="border-radius: 50%;">
+<img src="Meena.jpeg" alt="Meenakshi Rajendran" width="200" height="200">
 
 ## About Me
 
