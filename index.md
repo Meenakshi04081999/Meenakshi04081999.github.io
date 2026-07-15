@@ -1,6 +1,13 @@
 
 <img src="Meena.jpeg" alt="Meenakshi Rajendran" width="200" height="300">
 
+<style>
+a {
+  color: #007bff !important;   /* bright blue */
+  text-decoration: underline;  /* optional: makes it look like a link */
+}
+</style>
+
 ## About Me
 
 I am a Computer Science master's student at Saarland University, Germany, with a focus on machine learning, the security aspects of ML systems, and software testing.
