@@ -13,7 +13,10 @@ In my free time, I enjoy playing badminton, table tennis, and solving logic puzz
 ## Projects
 
 ### Mini‑Cortex
-Repository: https://github.com/Meenakshi04081999/mini-cortex
+Repository: <a href="https://github.com/Meenakshi04081999/mini-cortex" 
+   style="color:#007bff; text-decoration:underline;">
+   minicortex-link
+</a> 
 
 A rule‑based image inspection system designed to classify images as defect or non‑defect.
 The project focuses on traditional computer vision logic rather than ML, making it suitable for industrial inspection pipelines where deterministic behavior is required.
@@ -29,7 +32,11 @@ Useful for manufacturing quality control workflows
 
 ### Membership Inference Attack - TML 2026
 
-Repository: https://github.com/Meenakshi04081999/TrustworthyML_2026
+Repository: Repository: <a href="https://github.com/Meenakshi04081999/TrustworthyML_2026" 
+   style="color:#007bff; text-decoration:underline;">
+   MIA-link
+</a> 
+
 
 This project performs a Membership Inference Attack on a ResNet‑18 model trained on a subset of a dataset.
 The goal is to determine whether a given sample was part of the model’s training data (member) or not (non‑member) using only model outputs and confidence scores.
@@ -55,7 +62,10 @@ Evaluated attack performance under strict low‑FPR constraints
 
 ### Adversarial Robustness
 
-Repository: https://github.com/Meenakshi04081999/Adversarial-ML-Robustness-
+Repository: <a href="https://github.com/Meenakshi04081999/Adversarial-ML-Robustness-" 
+   style="color:#007bff; text-decoration:underline;">
+   Adversarial-robustness-link
+</a> 
 
 This project builds a robust image classifier capable of correctly classifying both clean and adversarially perturbed images.
 The dataset contains 50,000 labeled RGB images (3×32×32) across 9 classes.
@@ -89,7 +99,11 @@ Explored trade‑offs between model performance and security
 
 ### Watermark forgery attack
 
-Repository: https://github.com/Meenakshi04081999/Watermark-Forgery-Attack-TML2026
+Repository: <a href="https://github.com/Meenakshi04081999/Watermark-Forgery-Attack-TML2026" 
+   style="color:#007bff; text-decoration:underline;">
+   Watermark-forgery-link
+</a>
+
 
 This project attempts watermark forging: modifying clean images so they appear to contain a specific invisible watermark, without knowing how the watermark was originally generated.
 
@@ -121,8 +135,16 @@ Evaluated results using bit accuracy + LPIPS similarity
 
 ### PDF Integrated Enhanced Retrieval Question Answering system 
 
-**Project link:** https://github.com/Meenakshi04081999/PIER_QA_2024/tree/master  
-**Paper link:** https://arxiv.org/abs/2506.18027
+
+
+**Project link:** <a href="https://github.com/Meenakshi04081999/PIER_QA_2024/tree/master" 
+   style="color:#007bff; text-decoration:underline;">
+   PIER-QA-link
+</a>
+**Paper link:** <a href="https://arxiv.org/abs/2506.18027" 
+   style="color:#007bff; text-decoration:underline;">
+   PIER-QA-paper-link
+</a>
 
 This project presents an advancement in Question Answering systems using a RAG framework to enhance information extraction from PDF files. It introduces an end-to-end system capable of retrieving and processing images, diagrams, graphs, and tables embedded within PDF documents—extending beyond conventional text-centric RAG models.
 
