@@ -117,13 +117,29 @@ Evaluated results using bit accuracy + LPIPS similarity
 
 ### PDF Integrated Enhanced Retrieval Question Answering system 
 
-Project link: https://github.com/Meenakshi04081999/PIER_QA_2024/tree/master
-Paper link: https://arxiv.org/abs/2506.18027
+**Project link:** https://github.com/Meenakshi04081999/PIER_QA_2024/tree/master  
+**Paper link:** https://arxiv.org/abs/2506.18027
 
-This project presents an advancement in Question answering systems using RAG framework to enhance information extraction from the PDF files. We introduce an end-to-end system that retrieves and processes images, diagrams, graphs, and tables embedded within PDF documents, extending beyond the capabilities of conventional text-centric RAG models. We also implement preprocessing steps including the removal of headers and footers, conversion of PDFs to markdown for easier manipulation, image captioning and table reformatting to enhance data readability and retrieval accuracy. Finally, we fine-tune language models to be RAG-aware, ensuring a better understanding of our data format and document domain.
+This project presents an advancement in Question Answering systems using a RAG framework to enhance information extraction from PDF files. It introduces an end-to-end system capable of retrieving and processing images, diagrams, graphs, and tables embedded within PDF documents—extending beyond conventional text-centric RAG models.
+
+Key preprocessing steps include:
+- Removal of headers and footers  
+- Conversion of PDFs to Markdown for easier manipulation  
+- Image captioning  
+- Table reformatting  
+
+The system also fine-tunes language models to be RAG-aware, improving understanding of the document domain and data format.
+
 
 ### Outcome based distillation for jailbreaking safety guardrails
 
-Project link: Work-in-progress
+**Project link:** Work-in-progress
 
-As model capabilities increase, safety guardrails are increasingly deployed to prevent malicious actors from extracting harmful information. While some mechanisms, such as model-level refusals, provide a rich feedback signal to an attacker, black-box input-level filters typically expose only a binary outcome. Recent work, “Boundary Point Jailbreaking of Black-Box LLMs,” demonstrated a fully automated attack pipeline against input filters, but requires up to 160K harmful queries before succeeding. In this project, we propose to frame guardrail jailbreaking as an outcome-based knowledge distillation problem, where the attacker iteratively approximates the guardrail by fine-tuning an off-the-shelf LLM-based classifier on observed outcomes. The goal of the project is to reduce the total harmful query budget required to successfully jailbreak a guardrail under this setting, and to study how this budget empirically depends on the level of information exposure provided by the guardrail.
+As model capabilities increase, safety guardrails are increasingly deployed to prevent malicious adversaries from extracting harmful information. While model-level refusals provide rich feedback, black-box input-level filters typically expose only a binary outcome.
+
+Recent work (“Boundary Point Jailbreaking of Black-Box LLMs”) demonstrated a fully automated attack pipeline but required up to 160K harmful queries. This project reframes guardrail jailbreaking as an outcome-based knowledge distillation problem: the attacker iteratively approximates the guardrail by fine-tuning an off-the-shelf LLM-based classifier on observed outcomes.
+
+The goal is to:
+- Reduce the harmful query budget required to jailbreak a guardrail.
+- Study how this budget depends on the level of information exposure provided by the guardrail.
+
