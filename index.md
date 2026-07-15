@@ -1,3 +1,6 @@
+
+<img src="Meena.jpeg" alt="Meenakshi Rajendran" width="200" style="border-radius: 50%;">
+
 ## About Me
 
 I am a Computer Science master's student at Saarland University, Germany, with a focus on machine learning, the security aspects of ML systems, and software testing.
