@@ -143,9 +143,8 @@ The goal is to:
 - Reduce the harmful query budget required to jailbreak a guardrail.
 - Study how this budget depends on the level of information exposure provided by the guardrail.
 
-  ## Skills
-
- ## Technical Skills
+## Skills
+### Technical Skills
 
 ### Front-end
 - React
